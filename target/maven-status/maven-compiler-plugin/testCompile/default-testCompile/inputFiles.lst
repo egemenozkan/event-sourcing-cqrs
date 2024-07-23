@@ -1,0 +1,6 @@
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/Case4ApplicationTests.java
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/consumer/UserActivityConsumerServiceIntegrationTest.java
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/data/NotificationRepositoryIntegrationTest.java
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/data/NotificationRepositoryUnitTest.java
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/rest/NotificationRestControllerIntegrationTest.java
+/home/egemen/Devel/workspace/bir-proje-daha/case4/src/test/java/org/example/case4/rest/admin/AdminRestControllerIntegrationTest.java

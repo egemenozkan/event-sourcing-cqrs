@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: sm-group
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-deserializer: org.example.case4.service.notification.utils.UserActivityDeserializer
